@@ -1,0 +1,38 @@
+---------------------------------------------------------------------------------------------
+
+Name: ABUNI GAIYA & KATHLEEN PESCADOR
+
+ID #: 1544553 & 1495198
+
+CMPUT 274 Fa17
+
+Included Files:
+TouchScreen.cpp
+TouchScreen.h
+MAKEFILE
+README
+Accessories:
+
+Arduino Mega Board (AMG)
+tftdisplayscreen
+
+Wiring instructions: Display wiring specified on eclass
+
+How to Run the Code:
+*Go to the folder where the file is saved
+*Open the folder in the terminal
+*Type make upload
+*Wait for it to compile and play your game.
+
+
+ References:
+   *Adafruit Graphics Library Documentation File.
+   *Zac Touchcoordinates code.
+   *Our assignment 1 & 2.
+
+
+Challenges:
+  *We had difficulties learning how to use Github
+  *Our first big challenge was moving of the images like the pipe and the bird.
+  *However our biggest challenge was figuring out the collision cases.
+-----------------------------------------------------------------------------------------
